@@ -25,6 +25,7 @@ const io = new Server(httpServer, {
 });
 require("./socket/socket")(io);
 app.use(express.json());
+app.use(cors());
 app.use(
   helmet({
     crossOriginResourcePolicy: false,
