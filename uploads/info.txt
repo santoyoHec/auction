@@ -1,0 +1,1 @@
+Se necesita tener la carpeta "uploads" para la carga de las imagenes a cloudinary

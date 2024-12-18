@@ -1,0 +1,79 @@
+Dimensiones:
+
+    Peso: Peso bruto y neto.
+    Altura: Medida vertical del producto.
+    Ancho: Medida horizontal del producto.
+    Profundidad: Espacio que ocupa el producto en dirección opuesta a la altura y el ancho.
+
+Composición:
+
+    Materiales: Tipos de materiales utilizados en la fabricación.
+    Ingredientes: Componentes en productos alimenticios o químicos.
+
+Propiedades físicas:
+
+    Densidad: Masa por unidad de volumen, útil para calcular el peso en el transporte.
+    pH: Indicador de acidez o alcalinidad.
+    Temperatura de fusión: Punto en el que un material cambia de sólido a líquido.
+    Color: Característica visual del producto.
+
+Rendimiento:
+
+    Capacidad: Volumen que puede contener (litros, mililitros, etc.).
+    Eficiencia energética: Relación entre el rendimiento y el consumo de energía.
+    Tiempo de funcionamiento: Duración de operación bajo condiciones específicas.
+
+Especificaciones técnicas:
+
+    Voltaje: En productos eléctricos, especifica el voltaje requerido.
+    Frecuencia: Frecuencia eléctrica en productos electrónicos.
+    Potencia: Consumo de energía o salida en vatios.
+
+Condiciones de almacenamiento:
+
+    Temperatura ideal: Rango de temperaturas recomendado.
+    Humedad: Nivel de humedad que se debe mantener para la preservación del producto.
+
+Vida útil:
+
+    Fecha de caducidad: Indica hasta cuándo el producto se considera seguro y efectivo.
+    Periodo de garantía: Tiempo durante el cual el producto está cubierto por el fabricante.
+
+Certificaciones:
+
+    Normas de calidad: Certificaciones que garantizan que el producto cumple con ciertos estándares.
+    Certificaciones medioambientales: Cumplimiento de normativas como ISO o CE.
+
+Instrucciones de uso:
+
+    Modo de empleo: Cómo utilizar el producto correctamente.
+    Precauciones: Advertencias sobre el uso seguro del producto.
+
+Diseño y estética:
+
+    Estilo: Diseño general y atractivo del producto.
+    Colores disponibles: Opciones de color ofrecidas.
+
+Origen:
+
+    País de fabricación: Lugar donde se produce el producto.
+    Procedencia de los materiales: Origen de los materiales utilizados.
+
+Volumen y Logística:
+
+    m³ (metros cúbicos): Medida del volumen del producto, importante para el transporte.
+    Cubic Feet (ft³): Unidad de medida alternativa para el volumen.
+    TEU (Twenty-foot Equivalent Unit): Unidad para medir la capacidad de contenedores.
+    Full Container Load (FCL): Carga completa en un contenedor para un solo cliente.
+    Less than Container Load (LCL): Carga que no ocupa un contenedor completo, compartido con otros.
+    Carga Paletizada: Productos organizados en paletas para facilitar el manejo.
+    Peso volumétrico: Cálculo del peso del espacio que ocupa un producto, esencial para el transporte aéreo.
+    Rotación de inventario: Frecuencia con la que se venden y reponen los productos.
+    Costos de envío: Gastos asociados al transporte de productos, incluyendo tarifas por volumen o peso.
+    Tiempos de entrega: Plazos estimados para el transporte y la entrega de productos.
+    Condiciones de envío: Requisitos específicos durante el transporte (temperatura, humedad).
+    Sistema de gestión de inventarios: Herramientas y métodos para llevar un control efectivo del stock.
+    Etiquetado y embalaje: Información sobre cómo deben ser etiquetados y empaquetados los productos para el transporte.
+    Transporte multimodal: Uso de diferentes medios de transporte para la logística (camión, tren, barco, avión).
+
+Incoterms: ...
