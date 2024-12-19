@@ -28,8 +28,9 @@ app.use(express.json());
 app.use(cors());
 // Permitir solicitudes solo desde un origen específico (más seguro)
 app.use(cors({
-  origin: 'https://tudominio.vercel.app', // Reemplaza con tu dominio
-  methods: ['GET', 'POST', 'PUT', 'DELETE'], // Métodos permitidos
+  origin: 'http://localhost:4200', // Reemplaza con el dominio desde el que haces la solicitud
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'], // Métodos permitidos
+  allowedHeaders: ['Content-Type', 'Authorization'], // Encabezados permitidos
 }));
 app.use(
   helmet({
