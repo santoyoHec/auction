@@ -25,7 +25,7 @@ const io = new Server(httpServer, {
 });
 require("./socket/socket")(io);
 app.use(express.json());
-app.use(cors());
+// app.use(cors());
 // Permitir solicitudes solo desde un origen específico (más seguro)
 app.use(cors({
   origin: 'http://localhost:4200', // Reemplaza con el dominio desde el que haces la solicitud
